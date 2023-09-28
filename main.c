@@ -1,4 +1,4 @@
-#include <SDL2/SDl.h>
+#include <SDL2/SDL.h>
 #include <stdio.h>
 #include <math.h>
 #include <complex.h>
